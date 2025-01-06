@@ -18,7 +18,8 @@ The `Student` class implements a neural network with:
 - **Backpropagation** and **gradient descent** for training
 
 Additional note:
-- **Weight initialization** uses He initialization (https://pytorch.org/docs/stable/nn.init.html#torch.nn.init.kaiming_uniform_)
+- **Weight initialization** uses He initialization (<https://pytorch.org/docs/stable/nn.init.html#torch.nn.init.kaiming_uniform_>
+)
 
 ### Methods:
 1. **`forward(x)`**: Computes the output by passing `x` through the network.
