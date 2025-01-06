@@ -34,4 +34,4 @@ The `Student` class implements a neural network with:
 2. Ensure `Student.py` and `ActivationFunction.py` are in the same directory.
 3. Run the main script to train and plot results.
 
-This coding project was put together from the recent research guidance of Dr. Pedro Morales-Almazan.
+This coding project was put together from the recent research guidance of Dr. Pedro Morales-Almazan of the University of California, Santa Cruz Mathematics Department.
