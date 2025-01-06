@@ -14,7 +14,7 @@ pip install numpy matplotlib
 
 The `Student` class implements a neural network with:
 - **4 layers** (1 input, 2 hidden, 1 output)
-- **Swish** activation function (user can easily change)
+- **Swish** activation function (can be easily changed)
 - **Backpropagation** and **gradient descent** for training
 
 Additional note:
