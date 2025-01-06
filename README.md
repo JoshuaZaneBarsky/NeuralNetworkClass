@@ -17,6 +17,9 @@ The `Student` class implements a neural network with:
 - **Swish** activation function (user can easily change)
 - **Backpropagation** and **gradient descent** for training
 
+Additional note:
+- **Weight initialization** uses He initialization (https://pytorch.org/docs/stable/nn.init.html#torch.nn.init.kaiming_uniform_)
+
 ### Methods:
 1. **`forward(x)`**: Computes the output by passing `x` through the network.
 2. **`backward(x, y, learning_rate)`**: Updates weights/biases via backpropagation.
