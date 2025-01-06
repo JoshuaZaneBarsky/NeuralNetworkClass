@@ -1,6 +1,6 @@
 # Neural Network with Student Class
 
-This project implements a neural network using a custom `Student` class for function approximation. The network has 3 layers and has a handful of activation functions to choose from.
+This project implements a neural network using a custom `Student` class for function approximation. The network has 4 layers and has a handful of activation functions to choose from.
 
 ## Requirements
 
@@ -13,7 +13,7 @@ pip install numpy matplotlib
 ## Student Class
 
 The `Student` class implements a neural network with:
-- **3 layers** (1 input, 2 hidden, 1 output)
+- **4 layers** (1 input, 2 hidden, 1 output)
 - **Swish** activation function (user can easily change)
 - **Backpropagation** and **gradient descent** for training
 
