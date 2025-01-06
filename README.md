@@ -38,4 +38,4 @@ Additional note:
 2. Ensure `Student.py` and `ActivationFunction.py` are in the same directory.
 3. Run the main script to train and plot results.
 
-This coding project was put together from the recent research guidance of Dr. Pedro Morales-Almazan of the University of California, Santa Cruz Mathematics Department.
+This coding project was put together from the recent research guidance of Dr. Pedro Morales-Almazan of the University of California, Santa Cruz Mathematics Department. It serves as a way to see a working higher level view from what we've learned mathematically through our time digging deep into neural networks and its underlying mathematical structures.
