@@ -39,3 +39,5 @@ Additional note:
 3. Run the main script to train and plot results.
 
 This coding project was put together from the recent research guidance of Dr. Pedro Morales-Almazan of the University of California, Santa Cruz Mathematics Department. It serves as a way to see a working higher level view from what we've learned mathematically through our time digging deep into neural networks and its underlying mathematical structures.
+
+Note: our group explored much more than just SGD, ReLu, etc. The purpose of this project is to give a small glimpse into what we looked at as a team. This is only my personal presentation of a part of what we looked into, but I feel was a core part of our search in understanding. This project was not approved by the professor at the time of this posting.
